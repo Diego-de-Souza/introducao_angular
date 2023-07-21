@@ -1,0 +1,13 @@
+
+h1 {
+  display: flex;
+  font-size: 5em;
+  color: #0007d7;
+  text-shadow: 0px 0px 4px black;
+}
+
+p {
+  font-size: 2em;
+  color: rgba(10, 10, 10, 0.822);
+}
+
